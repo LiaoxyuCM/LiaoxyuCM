@@ -6,4 +6,4 @@
 
 1. On Mar 28th, I had an English exam. The nineth topic asked "What's your hobbies", I answered "coding", but it was wrong! I never answer "coding" again.
 2. chrome://dino is **our** favourite game, we usually play it when we have a computer class
-3. Maybe 1 years ago, I had a new friend, he is [纪失YYBH @YYBH-CRH](https://github.com/YYBH-CRH). He often research CPU, GPU, USB and more
+3. Maybe 1 years ago, I had a new friend, he is [纪失YYBH @YYBH-CRH](https://github.com/YYBH-CRH). He often research CPU, GPU, USB and more. One day, I asked him why didn't merge my branch on [my pull request](https://github.com/YYBH-CRH/YYBH.github.io/pull/4), he said his wifi couldn't connect to github.
