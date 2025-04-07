@@ -11,4 +11,4 @@ He has >50 email address, but >40 email address was blocked because he opened GU
 
 ### Rules
 
-1. Don't publish any issues or pull requests.
+1. Don't publish any issues or pull requests in repo:LiaoxyuCM/LiaoxyuCM.
