@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ![avt-liaoxyucm](https://avatars.githubusercontent.com/u/161911756?s=20&u=9c8223fff0410b9e95177b2e5aa178217934cbd0&v=4)[Liaoxyu @LiaoxyuCM](https://github.com/LiaoxyuCM)
+- 👋 Hi, I’m [Liaoxyu @LiaoxyuCM](https://github.com/LiaoxyuCM), you can call me Liao Shin C M
 - Nice to meet you!
 
 ### My story
