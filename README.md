@@ -6,9 +6,7 @@ Hi.
 ------------
 
 
-I'm developing FidoFido ~~and a Minecraft server.~~
-
-I've been stopped building the Minecraft server. Because I'm very busy.
+I'm developing ~~FidoFido and a Minecraft server.~~
 
 Please contact me for more information.
 
