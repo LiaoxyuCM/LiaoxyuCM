@@ -3,10 +3,6 @@ Hi.
 🌵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌵🌵  🦖
 
 ------------
-### LauncherCLI
-Comming soon.
-
-------------
 
 ### Donating
 [afdian](https://afdian.com/a/LiaoxyuCM)
