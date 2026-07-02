@@ -1,4 +1,4 @@
-2026年1月8日，吕齐冲使用我的起始页搜索一个不可描述的东西，搜出来更不可描述的东西，这让我非常生气。为了不直接打草惊蛇说他，所以我称“吕齐冲NB”
+2026年1月8日，吕齐冲使用我的起始页搜索一个不可描述的东西，搜出来更不可描述的东西，这让我非常生气。为了不直接打草惊蛇说他，所以我称“吕齐冲NB”。
 
 On January 8, 2026, LvQiChong used my starter to search for something unspeakable, and the results were even more unspeakable, which made me very angry. In order not to directly alert him, I said "LvQiChong NB" instead.
 
@@ -25,4 +25,3 @@ Op 8 januari 2026 gebruikte LvQiChong mijn starter om naar iets onuitsprekelijks
 Den 8 januari 2026 använde LvQiChong min starter för att söka efter något outsägligt, och resultaten var ännu mer outsägliga, vilket gjorde mig mycket arg. För att inte direkt väcka hans misstanke sa jag "LvQiChong NB".
 
 8 stycznia 2026 roku LvQiChong użył mojego startera, aby szukać czegoś niewypowiedzianego, a wyniki były jeszcze bardziej niewypowiedziane, co bardzo mnie rozzłościło. Aby nie wzbudzić jego bezpośredniej czujności, powiedziałem „LvQiChong NB”.
-。
