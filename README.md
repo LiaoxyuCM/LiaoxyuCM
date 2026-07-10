@@ -7,7 +7,7 @@
 ## 暑假进度
 
 ```
-llcm.top 0.8    [=>                      ]
+llcm.top 0.8    [==>                     ]
 summer homework [>                       ]
 ```
 
