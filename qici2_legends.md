@@ -20,6 +20,8 @@ Qichlorine, 又可以简称qiCI₂, 我又称他7喜2, 最后变成14喜.
 
 他也可以叫成RicheeChong, 老外念的顺口,
 
+*Qichlorine, aka 14Xi, is a C++ compiler whisperer. Formerly known as Chlorine Rush, now compiles code faster than gas diffusion.*
+
 ## llcm.top v0.8
 
 添加更多吕齐冲NB, 这是必然的
