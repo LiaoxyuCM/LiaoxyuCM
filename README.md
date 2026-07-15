@@ -7,8 +7,8 @@
 ## 暑假进度
 
 ```
-llcm.top 0.8    [==>                     ]
-summer homework [>                       ]
+llcm.top 0.8    [====>                   ]
+summer homework [=>                      ]
 ```
 
 ## 吕齐冲为什么NB? (得让全世界的人都知道)
