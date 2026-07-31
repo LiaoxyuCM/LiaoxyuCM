@@ -20,6 +20,10 @@ llcm.top 0.8    [===========>            ]
 summer homework [======>                 ]
 ```
 
-## 吕齐冲为什么NB? (得让全世界的人都知道)
+## 吕齐冲为什么NB? (涵盖各大语种)
 
 [why lqc nb](why_lqc_nb.md)
+
+## 法律声明
+
+[legal](legal.md)
