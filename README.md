@@ -1,7 +1,7 @@
 ## naming (in English)
 
 Hi, I'm LiaoxyuCM/Lclimir/Liaoxyu Climir.
-The standard pronounciation is /lɪaʊ**'ʃjun**/ \(for all my three names\)
+The standard pronounciation is `/lɪaʊ'ʃjun/` \(for all my three names\)
 
 Actually, I've been thinking about how to pronounce my names for a long time.
 
