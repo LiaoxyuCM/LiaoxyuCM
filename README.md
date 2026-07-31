@@ -1,3 +1,12 @@
+## naming (in English)
+
+Hi, I'm LiaoxyuCM/Lclimir/Liaoxyu Climir.
+The standard pronounciation is /lɪaʊ**'ʃjun**/ \(for all my three names\)
+
+Actually, I've been thinking about how to pronounce my names for a long time.
+
+You don't have to worry about reading my names anymore.
+
 ## brotime ultimate
 
 打开空调，灭掉蚊子 [详情...](f_mosquitoes.md)
