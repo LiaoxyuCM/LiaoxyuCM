@@ -4,6 +4,8 @@
 
 目前正在开发前端项目, 基本上是前端开发者, 但我也有后端的项目.
 
+Aug 4th: 由于我们在装修新房间, 抱歉几乎所有的开发工作都停止了.
+
 ## naming (in English)
 
 Hi, I'm LiaoxyuCM/Lclimir/Liaoxyu Climir.
