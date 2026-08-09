@@ -20,8 +20,8 @@ The standard pronounciation is `/lɪaʊ'ʃjun/` \(for all my three names\)
 ## 暑假进度
 
 ```
-llcm.top 0.8    [===============>        ]
-summer homework [======>                 ]
+llcm.top 0.8    [=================>      ]
+summer homework [===========>            ]
 ```
 
 [吕齐冲为什么NB? (涵盖各大语种)](why_lqc_nb.md)
