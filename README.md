@@ -15,12 +15,9 @@ The standard pronounciation is `/lɪaʊ'ʃjun/` \(for all my three names\)
 
 我在这里存放的大多数是自己的个人项目，不过你也可以fork一下，不限制 \(除了liaoxyucmTop备份那个，不接受任何PRs\)
 
-## 暑假进度
+## 停更五年
 
-```
-llcm.top 0.8    [=================>      ]
-summer homework [===========>            ]
-```
+在 2026/9/1 到 2031/6/XX 之间, 更新频率将大幅下降 \(可能1个月都不会更新\)
 
 [吕齐冲为什么NB? (涵盖各大语种)](why_lqc_nb.md)
 
