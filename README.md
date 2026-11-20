@@ -21,6 +21,4 @@ The standard pronounciation is `/lɪaʊ'ʃjun/` \(for all my three names\)
 
 -----------------
 
-[吕齐冲为什么NB? (涵盖各大语种)](why_lqc_nb.md)
-
 [为何使用GPLv3](legal.md)
